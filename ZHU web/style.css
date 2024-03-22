@@ -1,0 +1,166 @@
+
+
+*{
+    margin: 0%
+}
+h1{
+    text-align: left;
+    padding-left: 15%;
+    padding-top: 15%;
+    color: black;
+    font-size: 70px;
+}
+
+
+.navbar{display: flex;
+justify-content: space-between;
+color: white;}
+ul{margin: 0%; padding: 20px}
+li a{text-decoration: none;
+color: white;}
+
+li{list-style: none;
+display:inline;
+margin: 40px;
+font-family:sans-serif;
+text-transform:uppercase;
+font-weight: bold;
+padding-top: 0%;
+color: white;
+text-decoration: none;
+}
+.header-main{ text-align: center;
+background-image:url(ZHU\ Grace_files/ZHU1.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+
+}
+.button1{
+    margin-top: 7px ;
+    text-align: left;
+    padding-bottom: 15%;
+    padding-left: 15%;
+}
+
+.button2
+{ font-size: 28px;
+font-family: "quicksand",sans-serif ;
+text-transform:uppercase;
+font-weight: bold;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left:40px; 
+padding-right:40px;
+border: none;
+outline:none;
+background-color:#ffffff;
+color: black;
+cursor: pointer;
+border-radius:0.5em}
+.button2:hover
+{background-color:#90918e;
+
+}
+h2{ text-align: center;
+padding-top: 10px;
+font-size: 50pt ;
+line-height: 40px;
+}
+span{ color: red;
+line-height: 20px;}
+.albun
+{ height: 120px; 
+    padding: 30px;
+    padding-left: 1030px;
+}
+
+
+
+.all
+{float: left;
+padding-top:50px;
+display:line;
+padding-left:900px;
+text-transform:uppercase;
+padding-left: 900px;
+position: absolute;
+
+}
+.Deluxe{
+float: left;
+padding-top: 50px;
+display:line;
+padding-left:910px;
+text-transform:uppercase;
+padding-left: 913px;
+position: absolute;
+
+}
+.CD{float: left;
+    padding-top: 50px;
+    display:line;
+    text-transform:uppercase;
+    padding-left: 940px;
+    position: absolute;
+
+}
+
+
+article{
+     background-image:url(ZHU\ Grace_files/zhu3.png);
+    background-repeat: no-repeat;
+    background-color: #CCCCCC;
+  
+}
+.price{
+float: left;
+padding-top:75px;
+position: absolute;
+padding-left: 930px;
+}
+
+.buy{ position: absolute;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left:10px;
+    padding-right:10px;
+    border: none;
+outline:none;
+background-color:red;
+color:white;
+border-radius:1em;
+cursor: pointer;
+text-transform:uppercase;}
+
+.button_position{ 
+position: absolute;
+padding-top: 115px;
+padding-left:930px ;
+}
+.other_abums{color: white;
+
+}
+.other_sec{padding-top: 50px;
+background-color:black;
+}
+section{
+    background-color: black
+}
+.other_alb{padding-top:50px;
+    font-style: none;
+    
+}
+.other_al{ 
+    padding: 0%;
+    text-decoration: none;
+    list-style-type: none;
+  margin: 0;
+  padding:10px;
+  text-align: center;
+ }
+
+li img{ height: 230px;
+}
+.other_alb_titles{ color:white;
+}
